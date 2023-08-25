@@ -1,0 +1,25 @@
+{
+  "name": "front-end",
+  "version": "1.0.0",
+  "description": "mi store clone frontend",
+  "scripts": {
+    "start": "parcel ./public/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prabhat kamti",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.4",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.10.0"
+  },
+  "browserlist": [
+    "last 2 version"
+  ]
+}
